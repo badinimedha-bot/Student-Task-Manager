@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f5f9;
+    margin: 30px;
+    text-align: center;
+}
+
+h1 {
+    color: #263b63;
+}
+
+h2 {
+    color: #405779;
+}
+
+input {
+    padding: 10px;
+    width: 250px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #4169e1;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+ul {
+    list-style-position: inside;
+    padding: 0;
+}
+
+li {
+    margin: 10px;
+    color: #333;
+}
